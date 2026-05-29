@@ -1,0 +1,17 @@
+{
+  "name": "local-media-library",
+  "version": "1.0.0",
+  "description": "ローカル完結型メディア管理ライブラリ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "start:fresh": "node --no-warnings -e \"process.env.LOCAL_MEDIA_DATA_DIR='data_test_fresh'; require('./server.js')\""
+  },
+  "engines": {
+    "node": ">=24.12.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sharp": "^0.33.2"
+  }
+}
