@@ -39,7 +39,8 @@
 
 ## 画面イメージ
 
-*(今後、アプリケーションの操作画面や機能紹介のスクリーンショット画像を追加予定)*
+<img width="1187" height="633" alt="image" src="https://github.com/user-attachments/assets/bd3b16e1-3ca6-4999-825e-ecf3109df057" />
+
 
 ---
 
