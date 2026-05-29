@@ -49,7 +49,7 @@
 * **データベース**: SQLite (Node.js 組み込みの node:sqlite)
 * **画像処理**: sharp (高速サムネイル生成)
 * **動画処理**: ffmpeg (サムネイル抽出・非破壊トリミング)
-* **フロントエンド**: HTML5, Vanilla JavaScript, CSS (SCSS設計)
+* **フロントエンド**: HTML5, Vanilla JavaScript, CSS (CSS変数とBEM設計によるコンポーネント指向)
 
 ---
 
